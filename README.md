@@ -1,4 +1,4 @@
-### Hi there, I'm Eko - aka [Tristiyadi][website] 👋
+### Hi there, I'm Eko - aka [Eko Tristiyadi][website] 👋
 
 [![Website](https://img.shields.io/website?label=trimogo.com&style=for-the-badge&url=https%3A%2F%2Ftrimogo.com)](https://trimogo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekotristiyadi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekotristiyadi&screen_name=ekotristiyadi)
