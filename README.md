@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Eko Tristiyadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img align="left" alt="Eko Tristiyadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tristiyadi&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
 </details>
 
