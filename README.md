@@ -6,16 +6,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekotristiyadi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekotristiyadi&screen_name=ekotristiyadi)
 
 **Software Engineer | Freelancer**
+<br>
 I'm Eko, a Full stack Software Engineer with 4 years of experience. I currently work at [Paques Indonesia](https://paques.id) DKI Jakarta - Indonesia.
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love pretty code and sholawat
 
 ### Connect with me:
 
-[<img align="left" alt="Eko Tristiyadi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Eko Tristiyadi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Eko Tristiyadi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Eko Tristiyadi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[![Instagram Badge](https://img.shields.io/badge/ekotristiyadi-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com)][instagram]
+[![Instagram Badge](https://img.shields.io/badge/ekotristiyadi-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Gmail Badge](https://img.shields.io/badge/-eko@trimogo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eko@trimogo.com)](mailto:eko@trimogo.com)
 
 <br />
