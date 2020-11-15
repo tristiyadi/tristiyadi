@@ -13,10 +13,8 @@ I'm Eko, a Full stack Software Engineer with 4 years of experience. I currently 
 
 ### Connect with me:
 
-
-[![Instagram Badge](https://img.shields.io/badge/ekotristiyadi-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com)][instagram]
-[![Instagram Badge](https://img.shields.io/badge/ekotristiyadi-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Gmail Badge](https://img.shields.io/badge/-eko@trimogo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eko@trimogo.com)](mailto:eko@trimogo.com)
+[![Linkedin Badge](https://img.shields.io/badge/ekotristiyadi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekotristiyadi)
+[![Gmail Badge](https://img.shields.io/badge/eko@trimogo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eko@trimogo.com)](mailto:eko@trimogo.com)
 
 <br />
 
