@@ -7,7 +7,7 @@
 
 **Software Engineer | Freelancer**
 <br>
-I'm Eko, a Full stack Software Engineer with 4 years of experience. I currently work at [Paques Indonesia](https://paques.id) DKI Jakarta - Indonesia.
+I'm Eko, a Full stack Software Engineer with 5 years of experience. I currently work at [Paques Indonesia](https://paques.id) DKI Jakarta - Indonesia.
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love pretty code and sholawat
 
