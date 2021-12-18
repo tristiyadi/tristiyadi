@@ -5,9 +5,9 @@
 [![Website](https://img.shields.io/website?label=trimogo.com&style=for-the-badge&url=https%3A%2F%2Ftrimogo.com)](https://trimogo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekotristiyadi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekotristiyadi&screen_name=ekotristiyadi)
 
-**Software Engineer | Freelancer**
+**Software Engineer**
 <br>
-I'm Eko, a Full stack Software Engineer with 5 years of experience. I currently work at [Paques Indonesia](https://paques.id) DKI Jakarta - Indonesia.
+I'm Eko, a Full stack Software Engineer with 5 years of experience. I currently work at [Qualysoft](https://qualysoft.com/).
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love pretty code and sholawat
 
