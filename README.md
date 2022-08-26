@@ -7,7 +7,7 @@
 
 **Software Engineer**
 <br>
-I'm Eko, a Full stack Software Engineer with 5 years of experience. I currently work at [Qualysoft](https://qualysoft.com/).
+I'm Eko, a Full stack Software Engineer with 6 years of experience. I currently work at [Qualysoft](https://qualysoft.com/).
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love pretty code and sholawat
 
